@@ -70,7 +70,7 @@ global.f3 = 'application/vnd.openxmlformats-officedocument.wordprocessingml.docu
 global.f4 = 'application/zip'
 global.f5 = 'application/pdf'
 global.f6 = 'application/vnd.android.package-archive'
-global.flaming = 'https://imgur.com/a/UbBBXxJ'
+global.flaming = 'https://i.imgur.com/JueVmjH.png'
 global.mess = {
     success: 'Takaenda Done!',
     admin: '*This feature is only for admin!*',
@@ -102,7 +102,7 @@ global.vid = { url: 'https://i.imgur.com/LbmTdhf.mp4' }
 
 //—————「 Set Random Image Menu 」—————//
 
-global.flaming = 'https://imgur.com/a/UbBBXxJ'
+global.flaming = https://i.imgur.com/JueVmjH.png'
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
